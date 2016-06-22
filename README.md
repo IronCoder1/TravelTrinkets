@@ -1,2 +1,2 @@
 # TravelTrinkets
-+App to help travels find sourvenirs for friends and family.
++App to help travellers find sourvenirs for friends and family.
